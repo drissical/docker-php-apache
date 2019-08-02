@@ -1,2 +1,2 @@
 # docker-php-apache
-Docker Image
+Standard PHP:apache image with modifications for myself.
